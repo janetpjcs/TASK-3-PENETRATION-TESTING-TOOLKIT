@@ -137,3 +137,63 @@ Designed for screenshot documentation
 Only for educational/internship purposes
 
 Do not test unauthorized systems
+
+
+###  📸 Screenshots
+
+All screenshots are stored inside the **screenshots/** folder.
+
+---
+
+### 🖥️ GUI Interface
+
+![GUI](screenshots/gui.png)
+
+---
+
+### ✅ Port Scan – Success
+
+![Port Scan Success](screenshots/portscansuccess.png)
+
+---
+
+### ❌ Port Scan – Failure
+
+![Port Scan Failure](screenshots/portscanfailure.png)
+
+---
+
+### ✅ Banner Grabbing – Success
+
+![Banner Grab Success](screenshots/bannergrabsuccess.png)
+
+---
+
+### ❌ Banner Grabbing – Failure
+
+![Banner Grab Failure](screenshots/bannergrabfailure.png)
+
+---
+
+### ✅ Brute Force – Success
+
+![Brute Force Success](screenshots/bruteforcesuccess.png)
+
+---
+
+### ❌ Brute Force – Failure
+
+![Brute Force Failure](screenshots/bruteforcefailure.png)
+
+---
+
+### 📄 Report Output
+
+![Report Output](screenshots/reportoutput.png)
+
+---
+
+### ✅ Report Generated Successfully
+
+![Report Success](screenshots/reportsuccess.png)
+

@@ -187,13 +187,15 @@ All screenshots are stored inside the **screenshots/** folder.
 
 ---
 
+### ✅ Report Generated Successfully
+
+![Report Success](screenshots/reportsucess.png)
+
+---
+
 ### 📄 Report Output
 
 ![Report Output](screenshots/reportoutput.png)
 
----
 
-### ✅ Report Generated Successfully
-
-![Report Success](screenshots/reportsucess.png)
 

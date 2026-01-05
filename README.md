@@ -153,7 +153,7 @@ All screenshots are stored inside the **screenshots/** folder.
 
 ### ✅ Port Scan – Success
 
-![Port Scan Success](screenshots/portscansuccess.png)
+![Port Scan Success](screenshots/portscansucess.png)
 
 ---
 
@@ -165,7 +165,7 @@ All screenshots are stored inside the **screenshots/** folder.
 
 ### ✅ Banner Grabbing – Success
 
-![Banner Grab Success](screenshots/bannergrabsuccess.png)
+![Banner Grab Success](screenshots/bannergrabsucess.png)
 
 ---
 
@@ -177,7 +177,7 @@ All screenshots are stored inside the **screenshots/** folder.
 
 ### ✅ Brute Force – Success
 
-![Brute Force Success](screenshots/bruteforcesuccess.png)
+![Brute Force Success](screenshots/bruteforcesucess.png)
 
 ---
 

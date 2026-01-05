@@ -1,0 +1,19 @@
+
+---
+
+## 2️⃣ .gitignore (Minimal, CODTECH style)
+
+```gitignore
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore IDE/editor settings
+.vscode/
+
+# Ignore OS system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+[INFO] Starting Brute Force Attack Simulation...
+[INFO] Monitoring authentication attempts...
+
+[BRUTE] Trying admin:1111
+[BRUTE] Trying admin:2222
+[BRUTE] Trying admin:wrongpass
+[BRUTE] Trying admin:qwerty
+[BRUTE] Trying user:1111
+[BRUTE] Trying user:2222
+[BRUTE] Trying user:wrongpass
+[BRUTE] Trying user:qwerty
+[BRUTE] Trying test:1111
+[BRUTE] Trying test:2222
+[BRUTE] Trying test:wrongpass
+[BRUTE] Trying test:qwerty
+[FAILED] No valid credentials found
+

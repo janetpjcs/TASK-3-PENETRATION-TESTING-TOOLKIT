@@ -132,13 +132,6 @@ Designed for screenshot documentation
 | Brute Force | Username: `admin`, Password: `admin123` |
 
 
-### ⚠️ Disclaimer
-
-Only for educational/internship purposes
-
-Do not test unauthorized systems
-
-
 ###  📸 Screenshots
 
 All screenshots are stored inside the **screenshots/** folder.
@@ -196,6 +189,14 @@ All screenshots are stored inside the **screenshots/** folder.
 ### 📄 Report Output
 
 ![Report Output](screenshots/reportoutput.png)
+
+
+### ⚠️ Disclaimer
+
+Only for educational/internship purposes
+
+Do not test unauthorized systems
+
 
 
 
